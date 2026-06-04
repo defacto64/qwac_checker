@@ -16,6 +16,7 @@ $manifestContent = @{
     allowed_origins = @(
         "chrome-extension://bdgjbjpdfpejffidohniaomfcekgodbo/"
         "chrome-extension://kkeppdgmekpkohgdppcejgfbojdkdkcb/"
+        "chrome-extension://pncjbdkgnhmmbkngfpmncoadlpeckbai/"
     )
 } | ConvertTo-Json
 
